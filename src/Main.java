@@ -11,8 +11,6 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-		System.out.print("Hello World!");
-		
 		System.out.print("Enter Integer 1: ");
 		integer1 = Integer.parseInt(myScanner.nextLine());
 		System.out.print("Enter Integer 2: ");
