@@ -1,21 +1,9 @@
 
-import java.util.Scanner;
-
 public class Main {
-	
-	private static int integer1;
-	private static int integer2;
-	private static int gcd;
-	
-	private static Scanner myScanner = new Scanner(System.in);
 	
 	public static void main(String[] args) {
 		
-		System.out.print("Enter Integer 1: ");
-		integer1 = Integer.parseInt(myScanner.nextLine());
-		System.out.print("Enter Integer 2: ");
-		integer2 = Integer.parseInt(myScanner.nextLine());
-		
+		System.out.print("Hello World!");
 		
 	}
 
